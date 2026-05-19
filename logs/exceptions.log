@@ -1,0 +1,668 @@
+2025-09-28 15:30:49 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Sun Sep 28 2025 15:30:49 GMT+0100 (West Africa Standard Time)","process":{"pid":29812,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":84467712,"heapTotal":38813696,"heapUsed":24735024,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":365432.421},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-28 15:31:13 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Sun Sep 28 2025 15:31:13 GMT+0100 (West Africa Standard Time)","process":{"pid":8136,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":85438464,"heapTotal":39075840,"heapUsed":23893208,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":365456.437},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-28 15:36:19 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Sun Sep 28 2025 15:36:19 GMT+0100 (West Africa Standard Time)","process":{"pid":12640,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":85143552,"heapTotal":39337984,"heapUsed":23790304,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":365761.843},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-28 15:43:56 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Sun Sep 28 2025 15:43:56 GMT+0100 (West Africa Standard Time)","process":{"pid":14012,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":84869120,"heapTotal":38821888,"heapUsed":25260408,"external":20577812,"arrayBuffers":18264304}},"os":{"loadavg":[0,0,0],"uptime":366219.312},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-28 15:44:05 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Sun Sep 28 2025 15:44:05 GMT+0100 (West Africa Standard Time)","process":{"pid":28516,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":84267008,"heapTotal":38813696,"heapUsed":24078096,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":366228.531},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 08:42:29 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 08:42:29 GMT+0100 (West Africa Standard Time)","process":{"pid":23248,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":85893120,"heapTotal":39047168,"heapUsed":25607792,"external":20577812,"arrayBuffers":18264304}},"os":{"loadavg":[0,0,0],"uptime":427332.75},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 08:42:44 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 08:42:44 GMT+0100 (West Africa Standard Time)","process":{"pid":31132,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":85757952,"heapTotal":38838272,"heapUsed":25516120,"external":20577812,"arrayBuffers":18264304}},"os":{"loadavg":[0,0,0],"uptime":427347.375},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 09:02:02 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 09:02:02 GMT+0100 (West Africa Standard Time)","process":{"pid":19344,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":74412032,"heapTotal":39092224,"heapUsed":24291072,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":428505.625},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 09:28:29 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 09:28:29 GMT+0100 (West Africa Standard Time)","process":{"pid":11612,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":74383360,"heapTotal":38830080,"heapUsed":24353688,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":430092.39},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 09:33:52 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 09:33:52 GMT+0100 (West Africa Standard Time)","process":{"pid":11200,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":74137600,"heapTotal":38576128,"heapUsed":25426152,"external":20577812,"arrayBuffers":18264304}},"os":{"loadavg":[0,0,0],"uptime":430415.546},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 09:36:52 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 09:36:52 GMT+0100 (West Africa Standard Time)","process":{"pid":14236,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":74350592,"heapTotal":38830080,"heapUsed":23971504,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":430595.359},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 09:38:53 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 09:38:53 GMT+0100 (West Africa Standard Time)","process":{"pid":11472,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":73633792,"heapTotal":38830080,"heapUsed":23772744,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":430716.296},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 11:39:31 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 11:39:31 GMT+0100 (West Africa Standard Time)","process":{"pid":11892,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":81928192,"heapTotal":38830080,"heapUsed":24120352,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":437954.14},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 11:39:37 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 11:39:37 GMT+0100 (West Africa Standard Time)","process":{"pid":23332,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":81932288,"heapTotal":38830080,"heapUsed":23908392,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":437959.953},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 11:42:35 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 11:42:35 GMT+0100 (West Africa Standard Time)","process":{"pid":3404,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":81944576,"heapTotal":38830080,"heapUsed":23879344,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":438138.421},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 12:12:27 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 12:12:27 GMT+0100 (West Africa Standard Time)","process":{"pid":25912,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":81928192,"heapTotal":38830080,"heapUsed":23926896,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":439930.39},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 12:12:32 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 12:12:32 GMT+0100 (West Africa Standard Time)","process":{"pid":17296,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":81731584,"heapTotal":38830080,"heapUsed":23866672,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":439935.171},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2025-09-29 12:12:46 [ERROR]: uncaughtException: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14) {"error":{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"]},"exception":true,"date":"Mon Sep 29 2025 12:12:46 GMT+0100 (West Africa Standard Time)","process":{"pid":2296,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\PowerGen_API","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\PowerGen_API\\app.js"],"memoryUsage":{"rss":81604608,"heapTotal":38830080,"heapUsed":24191432,"external":20577812,"arrayBuffers":18264303}},"os":{"loadavg":[0,0,0],"uptime":439949.218},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1383,"method":"_resolveFilename","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"defaultResolveImpl","line":1025,"method":null,"native":false},{"column":22,"file":"node:internal/modules/cjs/loader","function":"resolveForCJSWithHooks","line":1030,"method":null,"native":false},{"column":37,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1192,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1463,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":147,"method":null,"native":false},{"column":36,"file":"C:\\Users\\IT OFFICER\\PowerGen_API\\routes\\authRoutes.js","function":null,"line":5,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false}],"service":"generator-management"}
+Error: Cannot find module 'express-validator'
+Require stack:
+- C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js
+- C:\Users\IT OFFICER\PowerGen_API\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\IT OFFICER\PowerGen_API\routes\authRoutes.js:5:36)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+2026-02-11 18:38:34 [ERROR]: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\server.js:124:5)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49 {"error":{},"exception":true,"date":"Wed Feb 11 2026 18:38:34 GMT+0100 (West Africa Standard Time)","process":{"pid":10148,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\server.js"],"memoryUsage":{"rss":81182720,"heapTotal":59392000,"heapUsed":31710408,"external":20584932,"arrayBuffers":18264703}},"os":{"loadavg":[0,0,0],"uptime":452482.984},"trace":[{"column":11,"file":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\node_modules\\express\\lib\\application.js","function":"Function.use","line":217,"method":"use","native":false},{"column":5,"file":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\server.js","function":null,"line":124,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Object..js","line":1839,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1441,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1263,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":171,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}],"service":"generator-management"}
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\server.js:124:5)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49
+2026-02-11 18:39:02 [ERROR]: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\server.js:124:5)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49 {"error":{},"exception":true,"date":"Wed Feb 11 2026 18:39:02 GMT+0100 (West Africa Standard Time)","process":{"pid":21036,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\server.js"],"memoryUsage":{"rss":80818176,"heapTotal":59392000,"heapUsed":31681088,"external":20584932,"arrayBuffers":18264703}},"os":{"loadavg":[0,0,0],"uptime":452510.671},"trace":[{"column":11,"file":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\node_modules\\express\\lib\\application.js","function":"Function.use","line":217,"method":"use","native":false},{"column":5,"file":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\server.js","function":null,"line":124,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Object..js","line":1839,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1441,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1263,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":171,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}],"service":"generator-management"}
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\server.js:124:5)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49
+2026-02-11 18:39:42 [ERROR]: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\server.js:124:5)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49 {"error":{},"exception":true,"date":"Wed Feb 11 2026 18:39:42 GMT+0100 (West Africa Standard Time)","process":{"pid":7052,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\server.js"],"memoryUsage":{"rss":80908288,"heapTotal":59392000,"heapUsed":31696376,"external":20584932,"arrayBuffers":18264703}},"os":{"loadavg":[0,0,0],"uptime":452550.984},"trace":[{"column":11,"file":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\node_modules\\express\\lib\\application.js","function":"Function.use","line":217,"method":"use","native":false},{"column":5,"file":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\server.js","function":null,"line":124,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Object..js","line":1839,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1441,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1263,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":171,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}],"service":"generator-management"}
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\server.js:124:5)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49
+2026-02-11 18:40:39 [ERROR]: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\server.js:135:5)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49 {"error":{},"exception":true,"date":"Wed Feb 11 2026 18:40:39 GMT+0100 (West Africa Standard Time)","process":{"pid":36364,"uid":null,"gid":null,"cwd":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v22.19.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\server.js"],"memoryUsage":{"rss":80576512,"heapTotal":59392000,"heapUsed":32100632,"external":20584932,"arrayBuffers":18264703}},"os":{"loadavg":[0,0,0],"uptime":452607.625},"trace":[{"column":11,"file":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\node_modules\\express\\lib\\application.js","function":"Function.use","line":217,"method":"use","native":false},{"column":5,"file":"C:\\Users\\IT OFFICER\\SentinelGuard\\SentinelGaurd_API_Backend\\server.js","function":null,"line":135,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1706,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Object..js","line":1839,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1441,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1263,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":237,"method":null,"native":false},{"column":5,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":171,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":36,"method":null,"native":false}],"service":"generator-management"}
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Users\IT OFFICER\SentinelGuard\SentinelGaurd_API_Backend\server.js:135:5)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
+    at node:internal/main/run_main_module:36:49
