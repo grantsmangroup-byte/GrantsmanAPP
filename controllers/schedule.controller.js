@@ -1,4 +1,4 @@
-const ScheduledShift = require('../models/ScheduledShift');
+const ScheduledShift = require('../models/Scheduledshift');
 const Guard          = require('../models/Guard');
 const audit          = require('../services/audit.service');
 const push           = require('../services/push.service');
